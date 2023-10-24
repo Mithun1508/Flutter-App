@@ -38,7 +38,8 @@ Open your terminal again and navigate to your project’s root directory. Run th
 
 flutter run
 Voila! You’ve just built and run your first Flutter app. You should see a screen with an app bar displaying “Flutter Basics” and a centered text saying “Hello, Flutter!”.
-Section 1: Exploring Text and Container Widgets
+
+## Section 1: Exploring Text and Container Widgets
 
 ## 1.1 Text Widget:
 In Flutter, the Text widget is your canvas for conveying textual content to users. Let's delve deeper into its properties and customization options, all while creating a visually engaging example.
